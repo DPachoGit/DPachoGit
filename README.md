@@ -33,7 +33,7 @@
 
 - 📝 Metas para 2024: Contribuir más en proyectos open source.
   
-- 💬 Datos curiosos: Me gusta andas en moto y los videojuegos.
+- 💬 Datos curiosos: Me gusta andar en moto y los videojuegos.
 <!--Intro end-->
 
 <!--h1 without bottom border-->
